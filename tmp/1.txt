@@ -2,4 +2,4 @@ git 2;gitgit - wd
 
 dafagit
 
-提交修改bug
+这是要放入stash里面的。
