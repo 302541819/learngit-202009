@@ -15,7 +15,7 @@ public class App extends Jooby {
 
     runApp(args, App::new);
 
-  
+
   }
 
 
